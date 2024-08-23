@@ -61,9 +61,9 @@ proyecto-ejercicios-java/
     - Crea "Issues" para preguntas específicas sobre los ejercicios.
 
 6. **Visualización de Soluciones**
-    - Las soluciones se publicarán como archivos Solucion[N].java en la misma carpeta que los ejercicios.
+    - Las soluciones se publicarán como archivos Solución[N].java en la misma carpeta que los ejercicios.
     - Puedes comparar tus soluciones con las publicadas para aprender diferentes enfoques.
-    - Puedes simplemente recrear mirando la solucion y analizar las partes del mismo (Eso vale y sirve mucho tambien!)
+    - Puedes simplemente recrear mirando la solución y analizar las partes del mismo (¡Eso vale y sirve mucho también!)
 
 ## Reglas y Recomendaciones
 
