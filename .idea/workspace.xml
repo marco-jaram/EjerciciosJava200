@@ -5,15 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a6402cb-1350-4bed-bff7-f7ea923404df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosJava200.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana000/IndiceCompleto.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana000/IndiceSimplificado.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Ejercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Ejercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Ejercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Ejercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Ejercicio05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Ejercicio06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Ejercicio07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Ejercicio08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Ejercicio09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Ejercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Solucion01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Solucion02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Solucion03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Solucion04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Solucion05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Solucion06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Solucion07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Solucion08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Solucion09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana001/Solucion10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +43,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2l4s64u7FnO78hO5E7cqZYKrd3L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,11 +54,92 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Solucion02.executor": "Run",
+    "Application.Solucion03.executor": "Run",
+    "Application.Solucion05.executor": "Run",
+    "Application.solucion01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Solucion08">
+    <configuration name="Solucion01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana001.Solucion01" />
+      <module name="EjerciciosJava200" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solucion02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana001.Solucion02" />
+      <module name="EjerciciosJava200" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solucion03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana001.Solucion03" />
+      <module name="EjerciciosJava200" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solucion05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana001.Solucion05" />
+      <module name="EjerciciosJava200" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solucion08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana001.Solucion08" />
+      <module name="EjerciciosJava200" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solucion08" />
+        <item itemvalue="Application.Solucion05" />
+        <item itemvalue="Application.Solucion03" />
+        <item itemvalue="Application.Solucion02" />
+        <item itemvalue="Application.Solucion01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
