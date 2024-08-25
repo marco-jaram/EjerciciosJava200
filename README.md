@@ -57,8 +57,7 @@ proyecto-ejercicios-java/
       ```
 
 5. **Discusiones y Preguntas**
-    - Utiliza la sección de "Discussions" en GitHub para debates generales.
-    - Crea "Issues" para preguntas específicas sobre los ejercicios.
+    - Crea "Issues" para preguntas generales o específicas sobre los ejercicios.
 
 6. **Visualización de Soluciones**
     - Las soluciones se publicarán como archivos Solución[N].java en la misma carpeta que los ejercicios.
