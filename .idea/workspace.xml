@@ -5,26 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a6402cb-1350-4bed-bff7-f7ea923404df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/semana005/ejercicio41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/ejercicio42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/ejercicio43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/ejercicio44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/ejercicio45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/ejercicio46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/ejercicio47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/ejercicio48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/ejercicio49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/ejercicio50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/solucion41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/solucion42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/solucion43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/solucion44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/solucion45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/solucion46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/solucion47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/solucion48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/solucion49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana005/solucion50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/solucion51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/solucion52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/solucion53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/solucion54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/solucion55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/solucion56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/solucion57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/solucion58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/solucion59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana006/solucion60.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,16 @@
     &quot;Application.solucion32.executor&quot;: &quot;Run&quot;,
     &quot;Application.solucion34.executor&quot;: &quot;Run&quot;,
     &quot;Application.solucion38.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solucion41.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solucion42.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solucion43.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solucion44.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solucion45.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solucion46.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solucion47.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solucion48.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solucion49.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solucion50.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
