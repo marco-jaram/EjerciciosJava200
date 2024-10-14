@@ -5,26 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a6402cb-1350-4bed-bff7-f7ea923404df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/ejercicio60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/solucion51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/solucion52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/solucion53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/solucion54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/solucion55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/solucion56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/solucion57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/solucion58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/solucion59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana006/solucion60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/ejercicio61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/ejercicio62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/ejercicio63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/ejercicio64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/ejercicio65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/ejercicio66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/ejercicio67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/ejercicio68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/ejercicio69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/ejercicio70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/solucion61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/solucion62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/solucion63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/solucion64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/solucion65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/solucion66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/solucion67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/solucion68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/solucion69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana007/solucion70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,33 +83,7 @@
     &quot;last_opened_file_path&quot;: &quot;/home/marco/IdeaProjects/EjerciciosJava200&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.solucion50">
-    <configuration name="solucion46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semana005.solucion46" />
-      <module name="EjerciciosJava200" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="semana005.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solucion47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semana005.solucion47" />
-      <module name="EjerciciosJava200" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="semana005.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.solucion70">
     <configuration name="solucion48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="semana005.solucion48" />
       <module name="EjerciciosJava200" />
@@ -148,13 +123,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="solucion61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana007.solucion61" />
+      <module name="EjerciciosJava200" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solucion70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana007.solucion70" />
+      <module name="EjerciciosJava200" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solucion70" />
+        <item itemvalue="Application.solucion61" />
         <item itemvalue="Application.solucion50" />
         <item itemvalue="Application.solucion49" />
         <item itemvalue="Application.solucion48" />
-        <item itemvalue="Application.solucion47" />
-        <item itemvalue="Application.solucion46" />
       </list>
     </recent_temporary>
   </component>
