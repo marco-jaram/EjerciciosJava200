@@ -10,13 +10,13 @@ proyecto-ejercicios-java/
 ├── src/
 │   └── main/
 │       └── java/
-│           ├── semana001/
+│           ├── semana01/
 │           │   ├── Ejercicio1.java
 │           │   ├── Solucion1.java
 │           │   ├── Ejercicio2.java
 │           │   ├── Solucion2.java
 │           │   └── ...
-│           ├── semana002/
+│           ├── semana02/
 │           │   ├── Ejercicio1.java
 │           │   ├── Solucion1.java
 │           │   ├── Ejercicio2.java
@@ -77,7 +77,7 @@ proyecto-ejercicios-java/
 - Tienes una semana para trabajar en los ejercicios.
 
 ## Contenido
-- Podrás ver índice simplificado y completo de los ejercicios en el paquete llamando semana000. 
+- Podrás ver índice simplificado y completo de los ejercicios en el paquete llamando semana00. 
 
 ## Contacto
 
