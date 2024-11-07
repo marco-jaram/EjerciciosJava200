@@ -5,181 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a6402cb-1350-4bed-bff7-f7ea923404df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/semana09/ejercicio81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/ejercicio82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/ejercicio83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/ejercicio84.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/ejercicio85.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/ejercicio86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/ejercicio87.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/ejercicio88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/ejercicio89.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/ejercicio90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/solucion81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/solucion82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/solucion83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/solucion84.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/solucion85.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/solucion86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/solucion87.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/solucion88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/solucion89.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semana09/solucion90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/ejercicio91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/ejercicio92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/ejercicio93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/ejercicio94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/ejercicio95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/ejercicio96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/ejercicio97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/ejercicio98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/ejercicio99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/solucion91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/solucion92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/solucion93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/solucion94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/solucion95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/solucion96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/solucion97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/solucion98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/semana10/solucion99.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana000/IndiceCompleto.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana00/IndiceCompleto.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana000/IndiceSimplificado.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana00/IndiceSimplificado.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Ejercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Ejercicio01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Ejercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Ejercicio02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Ejercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Ejercicio03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Ejercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Ejercicio04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Ejercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Ejercicio05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Ejercicio06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Ejercicio06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Ejercicio07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Ejercicio07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Ejercicio08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Ejercicio08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Ejercicio09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Ejercicio09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Ejercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Solucion01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Solucion01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Solucion02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Solucion02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Solucion03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Solucion03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Solucion04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Solucion04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Solucion05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Solucion05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Solucion06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Solucion06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Solucion07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Solucion07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Solucion08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Solucion08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Solucion09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Solucion09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana001/Solucion10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana01/Solucion10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana002/Ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana02/Ejercicio11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana002/Ejercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana02/Ejercicio12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana002/Ejercicio13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana02/Ejercicio13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana002/Ejercicio14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana02/Ejercicio14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana002/Ejercicio15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana02/Ejercicio15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana002/Ejercicio16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana02/Ejercicio16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana002/Ejercicio17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana02/Ejercicio17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana002/Ejercicio18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana02/Ejercicio18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana002/Ejercicio19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana02/Ejercicio19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana002/Ejercicio20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana02/Ejercicio20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana002/Solucion11_al_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana02/Solucion11_al_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/ejercicio21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/ejercicio21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/ejercicio22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/ejercicio22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/ejercicio23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/ejercicio23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/ejercicio24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/ejercicio24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/ejercicio25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/ejercicio25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/ejercicio26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/ejercicio26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/ejercicio27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/ejercicio27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/ejercicio28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/ejercicio28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/ejercicio29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/ejercicio29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/ejercicio30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/ejercicio30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/solucion21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/solucion21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/solucion22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/solucion22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/solucion23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/solucion23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/solucion24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/solucion24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/solucion25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/solucion25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/solucion26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/solucion26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/solucion27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/solucion27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/solucion28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/solucion28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/solucion29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/solucion29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana003/solucion30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana03/solucion30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/ejercicio31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/ejercicio31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/ejercicio32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/ejercicio32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/ejercicio33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/ejercicio33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/ejercicio34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/ejercicio34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/ejercicio35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/ejercicio35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/ejercicio36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/ejercicio36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/ejercicio37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/ejercicio37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/ejercicio38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/ejercicio38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/ejercicio39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/ejercicio39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/ejercicio40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/ejercicio40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/solucion31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/solucion31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/solucion32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/solucion32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/solucion33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/solucion33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/solucion34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/solucion34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/solucion35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/solucion35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/solucion36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/solucion36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/solucion37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/solucion37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/solucion38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/solucion38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/solucion39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/solucion39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana004/solucion40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana04/solucion40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/ejercicio41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/ejercicio41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/ejercicio42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/ejercicio42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/ejercicio43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/ejercicio43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/ejercicio44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/ejercicio44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/ejercicio45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/ejercicio45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/ejercicio46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/ejercicio46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/ejercicio47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/ejercicio47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/ejercicio48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/ejercicio48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/ejercicio49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/ejercicio49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/ejercicio50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/ejercicio50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/solucion41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/solucion41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/solucion42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/solucion42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/solucion43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/solucion43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/solucion44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/solucion44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/solucion45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/solucion45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/solucion46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/solucion46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/solucion47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/solucion47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/solucion48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/solucion48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/solucion49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/solucion49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana005/solucion50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana05/solucion50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/ejercicio51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/ejercicio51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/ejercicio52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/ejercicio52.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/ejercicio53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/ejercicio53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/ejercicio54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/ejercicio54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/ejercicio55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/ejercicio55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/ejercicio56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/ejercicio56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/ejercicio57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/ejercicio57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/ejercicio58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/ejercicio58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/ejercicio59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/ejercicio59.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/ejercicio60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/ejercicio60.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/solucion51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/solucion51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/solucion52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/solucion52.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/solucion53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/solucion53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/solucion54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/solucion54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/solucion55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/solucion55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/solucion56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/solucion56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/solucion57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/solucion57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/solucion58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/solucion58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/solucion59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/solucion59.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana006/solucion60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana06/solucion60.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/ejercicio61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/ejercicio61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/ejercicio62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/ejercicio62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/ejercicio63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/ejercicio63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/ejercicio64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/ejercicio64.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/ejercicio65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/ejercicio65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/ejercicio66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/ejercicio66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/ejercicio67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/ejercicio67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/ejercicio68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/ejercicio68.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/ejercicio69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/ejercicio69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/ejercicio70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/ejercicio70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/solucion61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/solucion61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/solucion62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/solucion62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/solucion63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/solucion63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/solucion64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/solucion64.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/solucion65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/solucion65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/solucion66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/solucion66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/solucion67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/solucion67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/solucion68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/solucion68.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/solucion69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/solucion69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana007/solucion70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana07/solucion70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/ejercicio71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/ejercicio71.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/ejercicio72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/ejercicio72.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/ejercicio73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/ejercicio73.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/ejercicio74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/ejercicio74.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/ejercicio75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/ejercicio75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/ejercicio76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/ejercicio76.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/ejercicio77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/ejercicio77.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/ejercicio78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/ejercicio78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/ejercicio79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/ejercicio79.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/ejercicio80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/ejercicio80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/solucion71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/solucion71.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/solucion72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/solucion72.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/solucion73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/solucion73.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/solucion74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/solucion74.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/solucion75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/solucion75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/solucion76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/solucion76.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/solucion77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/solucion77.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/solucion78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/solucion78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/solucion79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/solucion79.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semana008/solucion80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semana08/solucion80.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,83 +49,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Solucion02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solucion03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solucion05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solucion08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solucion11_al_20.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion21.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion30.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion31.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion32.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion34.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion38.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion41.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion42.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion43.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion44.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion45.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion46.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion47.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion48.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion49.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion50.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion51.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion61.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion70.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion71.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solucion78.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/marco/IdeaProjects/EjerciciosJava200&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Solucion02.executor": "Run",
+    "Application.Solucion03.executor": "Run",
+    "Application.Solucion05.executor": "Run",
+    "Application.Solucion08.executor": "Run",
+    "Application.Solucion11_al_20.executor": "Run",
+    "Application.solucion01.executor": "Run",
+    "Application.solucion21.executor": "Run",
+    "Application.solucion30.executor": "Run",
+    "Application.solucion31.executor": "Run",
+    "Application.solucion32.executor": "Run",
+    "Application.solucion34.executor": "Run",
+    "Application.solucion38.executor": "Run",
+    "Application.solucion41.executor": "Run",
+    "Application.solucion42.executor": "Run",
+    "Application.solucion43.executor": "Run",
+    "Application.solucion44.executor": "Run",
+    "Application.solucion45.executor": "Run",
+    "Application.solucion46.executor": "Run",
+    "Application.solucion47.executor": "Run",
+    "Application.solucion48.executor": "Run",
+    "Application.solucion49.executor": "Run",
+    "Application.solucion50.executor": "Run",
+    "Application.solucion51.executor": "Run",
+    "Application.solucion61.executor": "Run",
+    "Application.solucion70.executor": "Run",
+    "Application.solucion71.executor": "Run",
+    "Application.solucion78.executor": "Run",
+    "Application.solucion81.executor": "Run",
+    "Application.solucion83.executor": "Run",
+    "Application.solucion90.executor": "Run",
+    "Application.solucion91.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/marco/IdeaProjects/EjerciciosJava200",
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
-}</component>
-  <component name="RunManager" selected="Application.solucion90">
-    <configuration name="solucion71" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semana08.solucion71" />
-      <module name="EjerciciosJava200" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="semana08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solucion78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semana08.solucion78" />
-      <module name="EjerciciosJava200" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="semana08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solucion81" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semana09.solucion81" />
-      <module name="EjerciciosJava200" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="semana09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.solucion99">
     <configuration name="solucion83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="semana09.solucion83" />
       <module name="EjerciciosJava200" />
@@ -308,13 +117,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="solucion91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana10.solucion91" />
+      <module name="EjerciciosJava200" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solucion92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana10.solucion92" />
+      <module name="EjerciciosJava200" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solucion99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semana10.solucion99" />
+      <module name="EjerciciosJava200" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semana10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solucion99" />
+        <item itemvalue="Application.solucion92" />
+        <item itemvalue="Application.solucion91" />
         <item itemvalue="Application.solucion90" />
         <item itemvalue="Application.solucion83" />
-        <item itemvalue="Application.solucion81" />
-        <item itemvalue="Application.solucion78" />
-        <item itemvalue="Application.solucion71" />
       </list>
     </recent_temporary>
   </component>
